@@ -33,7 +33,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/personal-finance-manager.git
+git clone https://github.com/9bitbin/personal-finance-manager.git
 Open the project in Android Studio:
 
 Ensure you have the latest version of Android Studio installed.
@@ -46,7 +46,9 @@ Kotlin for Android development
 XML for user interface design
 Firebase for cloud storage and backups
 Jetpack Compose for UI components (if applicable)
-👥 Contributors
-Your Name
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+👥 Contributors:
+- Waleed Shahid
+- Joel 
+- Himal Shrestha
+- Moeez
+
