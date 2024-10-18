@@ -16,11 +16,6 @@ The **Personal Finance Manager** is a mobile application designed to help users 
 - **📉 Data Visualization**  
   View interactive graphs and charts to analyze your spending habits over time.
 
-- **☁️ Cloud Backup**  
-  Sync and securely store your financial data across multiple devices.
-
-- **🔒 Data Security**  
-  Ensure your financial information is encrypted and kept secure.
 
 ## 🎯 Purpose
 
